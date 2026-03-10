@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muh4mmedh/muh4mmedh/main/header.png" alt="Muhammedh's Banner" width="100%">
+  <img src="./github_premium_banner_dark_1773120940728.png" alt="Muhammedh's Banner" width="100%">
 </p>
 
 <h1 align="center">
