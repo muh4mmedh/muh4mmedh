@@ -69,10 +69,10 @@
 
 <p align="left">
   <a href="https://ark-devs.github.io/Profile/" target="_blank">
-    <img src="./assets/badges/live-portfolio.svg" alt="Live Portfolio" />
+    <img src="./assets/badges/live-portfolio.svg" alt="Live Portfolio" height="28" style="vertical-align:middle;margin-right:8px;border-radius:4px;" />
   </a>
   <a href="https://www.linkedin.com/in/muh4mmedh" target="_blank">
-    <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
+    <img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle;border-radius:4px;" />
   </a>
   <br />
   <small>
