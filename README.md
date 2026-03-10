@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./github_premium_banner_dark_1773120940728.png" alt="Muhammedh's Banner" width="100%">
 </p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=79D1FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Integrations+Specialist;Enterprise+System+Architect;Developer+Tools+Craftsman" alt="Typing SVG" />
 </h1>
