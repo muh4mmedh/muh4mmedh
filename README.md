@@ -6,11 +6,15 @@
 </h1>
 
 <p align="center">
+</p>
+<p align="center">
   <a href="https://github.com/muh4mmedh">
     <img src="https://img.shields.io/github/followers/muh4mmedh?label=Followers&style=for-the-badge&color=21262d&logo=github" alt="Followers" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/muh4mmedh?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/muh4mmedh?label=Repositories&style=for-the-badge&color=21262d&logo=git" alt="Repo Count" />
+    <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=%24.public_repos&url=https://api.github.com/users/muh4mmedh&style=for-the-badge&color=21262d&logo=git" alt="Repo Count" />
   </a>
 </p>
 
@@ -49,8 +53,10 @@
 ### 📊 Performance Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muh4mmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79D1FF&text_color=ffffff&icon_color=79D1FF" alt="Muhammedh's Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh4mmedh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79D1FF&text_color=ffffff" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muh4mmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79D1FF&text_color=ffffff&icon_color=79D1FF" alt="Muhammedh's Stats" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh4mmedh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79D1FF&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -63,11 +69,15 @@
 
 <p align="left">
   <a href="https://ark-devs.github.io/Profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="./assets/badges/live-portfolio.svg" alt="Live Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/muh4mmedh" target="_blank">
-    <img src="https://img.shields.io/badge/Network_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/badges/linkedin.svg" alt="LinkedIn" />
   </a>
+  <br />
+  <small>
+    <a href="https://ark-devs.github.io/Profile/">Live Portfolio</a> • <a href="https://www.linkedin.com/in/muh4mmedh">LinkedIn Profile</a>
+  </small>
 </p>
 
 <p align="center">
