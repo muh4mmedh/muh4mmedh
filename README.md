@@ -66,9 +66,7 @@
   </a>
 </p>
 
-<p align="center" style="margin-top:6px;">
-  <small><a href="https://github.com/muh4mmedh">View full stats and contributions on GitHub</a></small>
-</p>
+
 
 ---
 
@@ -86,10 +84,7 @@
   <a href="https://www.linkedin.com/in/muh4mmedh" target="_blank">
     <img src="./assets/badges/linkedin.svg" alt="LinkedIn" height="28" style="vertical-align:middle;border-radius:4px;" />
   </a>
-  <br />
-  <small>
-    <a href="https://ark-devs.github.io/Profile/">Live Portfolio</a> • <a href="https://www.linkedin.com/in/muh4mmedh">LinkedIn Profile</a>
-  </small>
+</p>
 </p>
 
 <p align="center">
