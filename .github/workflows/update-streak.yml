@@ -1,0 +1,40 @@
+name: Update Streak SVG
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily UTC
+  workflow_dispatch: {}
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+      - name: Generate streak.svg
+        env:
+          GITHUB_USER: muh4mmedh
+        run: |
+          python scripts/generate_streak_svg.py --username $GITHUB_USER --out assets/badges/streak.svg
+      - name: Commit and push change
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: 'chore: update streak.svg'
+          add: 'assets/badges/streak.svg'
+          push: true
+        env:
+          # Store your Personal Access Token as a repository secret named VIBRENT
+          # (Settings → Secrets and variables → Actions → New repository secret)
+          GITHUB_TOKEN: ${{ secrets.VIBRENT }}

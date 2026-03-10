@@ -22,12 +22,56 @@
 
 ### 🏛️ Engineering Portfolio
 
-| Category | Skills & Technology |
-| :--- | :--- |
-| **Backend & Architecture** | `Go` `Node.js` `Python` `PostgreSQL` `MSSQL` `Redis` |
-| **Frontend Engineering** | `TypeScript` `React` `Next.js` `SCSS` `TailwindCSS` |
-| **AI & Automation** | `LLM Integration` `Python Automation` `AI-Assisted DB Migration` |
-| **Enterprise Domains** | `HIMS (Hospital Info Systems)` `Inventory & ERP Architecture` |
+**Tech Stack**
+
+<div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;">
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/go.svg" alt="Go" height="24" />
+    <span>Go</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/nodejs.svg" alt="Node.js" height="24" />
+    <span>Node.js</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/python.svg" alt="Python" height="24" />
+    <span>Python</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/postgres.svg" alt="Postgres" height="24" />
+    <span>Postgres</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/redis.svg" alt="Redis" height="24" />
+    <span>Redis</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/typescript.svg" alt="TypeScript" height="24" />
+    <span>TypeScript</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/react.svg" alt="React" height="24" />
+    <span>React</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/nextjs.svg" alt="Next.js" height="24" />
+    <span>Next.js</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/scss.svg" alt="SCSS" height="24" />
+    <span>SCSS</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/tailwind.svg" alt="Tailwind" height="24" />
+    <span>Tailwind</span>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:6px 10px;background:transparent;border-radius:6px;">
+    <img src="./assets/icons/openai.svg" alt="OpenAI" height="24" onerror="this.style.display='none'" />
+    <span>AI / LLM</span>
+  </div>
+</div>
+
+<p style="margin-top:8px;">Enterprise: HIMS, Inventory & ERP Architecture</p>
 
 ---
 
@@ -50,19 +94,22 @@
 
 ---
 
+
 ### Performance Analytics
 
 <p align="center">
-  <img src="./assets/icons/analytics.svg" alt="analytics" height="20" style="vertical-align:middle;margin-right:8px;" />
-  <strong style="vertical-align:middle;">Performance Analytics</strong>
+  <strong>Performance Analytics</strong>
 </p>
 
 <p align="center" style="margin-top:8px;margin-bottom:6px;">
-  <a href="https://github.com/muh4mmedh" style="text-decoration:none;margin-right:8px;">
-    <img src="./assets/badges/stats-small.svg" alt="Muhammedh's Stats" height="36" style="vertical-align:middle;" />
+  <a href="https://github.com/muh4mmedh" style="text-decoration:none;margin-right:12px;">
+    <img src="./assets/badges/github-stats.svg" alt="Muhammedh's Stats" height="80" style="vertical-align:middle;" onerror="this.style.display='none'" />
   </a>
-  <a href="https://github.com/muh4mmedh?tab=top-langs" style="text-decoration:none;">
-    <img src="./assets/badges/toplangs-small.svg" alt="Top Languages" height="36" style="vertical-align:middle;" />
+  <a href="https://github.com/muh4mmedh?tab=top-langs" style="text-decoration:none;margin-right:12px;">
+    <img src="./assets/badges/top-langs.svg" alt="Top Languages" height="80" style="vertical-align:middle;" onerror="this.style.display='none'" />
+  </a>
+  <a href="https://github.com/muh4mmedh" style="text-decoration:none;">
+    <img src="./assets/badges/streak.svg" alt="Contribution Streak" height="80" style="vertical-align:middle;" />
   </a>
 </p>
 
