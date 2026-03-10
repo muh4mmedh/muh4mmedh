@@ -50,24 +50,36 @@
 
 ---
 
-### 📊 Performance Analytics
+### Performance Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=muh4mmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79D1FF&text_color=ffffff&icon_color=79D1FF" alt="Muhammedh's Stats" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh4mmedh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79D1FF&text_color=ffffff" alt="Top Languages" />
+  <img src="./assets/icons/analytics.svg" alt="analytics" height="20" style="vertical-align:middle;margin-right:8px;" />
+  <strong style="vertical-align:middle;">Performance Analytics</strong>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muh4mmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=79D1FF&fire=79D1FF&currStreakLabel=79D1FF" alt="Contribution Streak" />
+<p align="center" style="margin-top:8px;margin-bottom:6px;">
+  <a href="https://github.com/muh4mmedh" style="text-decoration:none;margin-right:8px;">
+    <img src="./assets/badges/stats-small.svg" alt="Muhammedh's Stats" height="36" style="vertical-align:middle;" />
+  </a>
+  <a href="https://github.com/muh4mmedh?tab=top-langs" style="text-decoration:none;">
+    <img src="./assets/badges/toplangs-small.svg" alt="Top Languages" height="36" style="vertical-align:middle;" />
+  </a>
+</p>
+
+<p align="center" style="margin-top:6px;">
+  <small><a href="https://github.com/muh4mmedh">View full stats and contributions on GitHub</a></small>
 </p>
 
 ---
 
-### 📫 Connect & Collaborate
+### Connect & Collaborate
 
 <p align="left">
+  <img src="./assets/icons/connect.svg" alt="connect" height="20" style="vertical-align:middle;margin-right:8px;" />
+  <strong style="vertical-align:middle;">Connect & Collaborate</strong>
+</p>
+
+<p align="left" style="margin-top:8px;">
   <a href="https://ark-devs.github.io/Profile/" target="_blank">
     <img src="./assets/badges/live-portfolio.svg" alt="Live Portfolio" height="28" style="vertical-align:middle;margin-right:8px;border-radius:4px;" />
   </a>
